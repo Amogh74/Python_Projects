@@ -1,3 +1,4 @@
+#Paddle For the Pong Game
 from turtle import Turtle ,Screen
 screen = Screen()
 class Paddle(Turtle):
